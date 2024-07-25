@@ -1,0 +1,6 @@
+apiVersion: some.cn/v1
+kind: Tmp
+metadata:
+  name: nginx-tmp
+spec:
+  service_name: nginx-tmp
